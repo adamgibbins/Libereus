@@ -1,4 +1,4 @@
-#!/usr/bin/python3.6
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from discord.ext import commands
 from core.helper import cmderr, sprint
